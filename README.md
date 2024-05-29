@@ -1,2 +1,2 @@
 # Technohacks
-Basic Calculator, ToDi List, Snake Game
+Basic Calculator, ToDo List, Snake Game
